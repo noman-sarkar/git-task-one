@@ -1,3 +1,3 @@
-1. tea - 10 taka
-2. saban - 20 taka
-3. powder - 30 taka
+1. tea - 10 taka - n store
+2. saban - 20 taka - s store
+3. powder - 30 taka - a store
