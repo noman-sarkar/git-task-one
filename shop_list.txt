@@ -1,3 +1,4 @@
-1. a - tea 
-2. a - saban
-3. a - powder
+1. a - tea - 10 taka
+2. a - saban - 20 taka
+3. a - powder - - 30 taka
+
