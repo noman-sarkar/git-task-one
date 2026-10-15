@@ -1,4 +1,3 @@
-1. a - tea - 10 taka
-2. a - saban - 20 taka
-3. a - powder - - 30 taka
-
+1. a - tea - 10 taka - n store - location - n
+2. a - saban - 20 taka - s store - location - s
+3. a - powder - - 30 taka - a store - location - a
